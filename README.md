@@ -4,6 +4,8 @@
 
 GlobalTradeSignals is a forked UI of ForkDelta, which is a decentralized Ethereum Token Exchange with the most ERC20 listings of any exchange.
 
+# What is GlobalTradeSignals?
+GlobalTradeSignals is an online trading, training and signals service for cryptocurrency market. Our official website is https://GlobalTradeSignals.com and this exchange website is https://GlobalTradeSignals.exchange. GlobaTradeSignals exchange is an updated interface of ForkDelta exchange. All credit is given to ForkDelta team, I only adjust the look to minimized my OCD for straight(er) lines. ForkDelta currently acts as an open source, updated interface for EtherDelta's smart contract with an active and public development team. Although ForkDelta started as a fork of EtherDelta, considerable development time has been put towards a new token listing system, order book, API, and front-end UI all of which are at different stages of development and can be tracked on [GitHub](https://github.com/forkdelta/). 
 
 # What is ForkDelta?
 ForkDelta currently acts as an open source, updated interface for EtherDelta's smart contract with an active and public development team. Although ForkDelta started as a fork of EtherDelta, considerable development time has been put towards a new token listing system, order book, API, and front-end UI all of which are at different stages of development and can be tracked on [GitHub](https://github.com/forkdelta/). 
