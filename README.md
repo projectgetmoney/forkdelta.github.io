@@ -1,5 +1,5 @@
 # GLobalTradeSignals
-[!Chat on Telegram](https://img.shields.io/badge/Chat%20on-Telegram-blue.svg)](https://t.me/joinchat/HKp3fRKMYuvFqRh935lRgg/)
+[![Chat on Telegram](https://img.shields.io/badge/Chat%20on-Telegram-blue.svg)](https://t.me/joinchat/HKp3fRKMYuvFqRh935lRgg/)
 [![Download MetaMask](https://img.shields.io/badge/Download-MetaMask-orange.svg)](https://metamask.io/)
 
 GlobalTradeSignals is a forked UI of ForkDelta, which is a decentralized Ethereum Token Exchange with the most ERC20 listings of any exchange.
